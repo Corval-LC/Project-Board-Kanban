@@ -40,7 +40,7 @@ Muchas personas que se dedican al rubro inmobiliario de forma independiente no c
 - **Juan Pérez** - *Frontend*  
   Experiencia con HTML, CSS y React. Se encargará del diseño visual de la plataforma.
 
-- **Lucía Gómez** - *Backend y Base de Datos*  
+- **Alverto Gomez** - *Backend y Base de Datos*  
   Manejo de Python y MySQL. Desarrollará la lógica del sistema y el almacenamiento de datos.
 
 - **Carlos Méndez** - *Gestión de Proyecto y Testing*  
